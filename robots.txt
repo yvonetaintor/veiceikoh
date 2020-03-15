@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://putooviifu.liuliange.cn/sitemap.xml
